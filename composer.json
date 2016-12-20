@@ -1,0 +1,8 @@
+{
+  "name": "belackriv/quickbooks-sdk",
+  "description": "Composer wrapper for QuickBooks APIs.",
+  "license": "MIT",
+  "autoload": {
+    "classmap": ["Quickbooks.php"]
+  }
+}
